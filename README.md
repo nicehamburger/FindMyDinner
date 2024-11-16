@@ -7,8 +7,9 @@ A brief description of your project.
 
 ## Technologies Used
 
-- **Google Cloud Storage (GCS)**: Used to store raw data files in a bucket.
-- **Google Compute Engine**: Used for running the data processing pipeline.
+- **Apify Instagram Scraper API**: Used to scrape Instagram posts, extracting captions, hashtags, and media links. This allows us to gather event-related content from Instagram efficiently.
+- **Google Vision API (OCR)**: Used for Optical Character Recognition (OCR) to extract text from images, such as event flyers and posters, turning them into machine-readable format.
+- **Google Gemini API**: Powers natural language understanding and analysis. It helps with content classification, sentiment analysis, and event-related text generation.
 
 ## Project Structure
 
