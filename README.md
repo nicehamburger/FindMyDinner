@@ -1,4 +1,4 @@
-# Project Title
+# Find My Dinner (HackedBeta 2024 - Honourable Mention)
 
 ## Overview
 A brief description of your project.
