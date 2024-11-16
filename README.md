@@ -3,6 +3,7 @@
 ## Overview (HackedBeta 2024 - Honourable Mention)
 
 This project helps students discover free food events on university premises by monitoring the social media accounts of university clubs. Using the Apify API, the system scrapes recent Instagram posts from these accounts, downloads images and captions, and utilizes the Google Vision API for OCR to extract text from the images. The text data from both captions and images are then processed with the Google Gemini API to identify key details about events, particularly focusing on whether free food is available. The generated output can then be displayed on a web app, making it easy for students to find relevant events.
+
 ![Project Overwiew](Overview.jpg)
 
 ## Technologies Used
