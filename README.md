@@ -3,7 +3,7 @@
 ## Overview (HackedBeta 2024 - Honourable Mention)
 A brief description of your project.
 
-![Project Overwiew](Overview.png)
+![Project Overwiew](Overview.jpg)
 
 ## Technologies Used
 
