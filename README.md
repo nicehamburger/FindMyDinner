@@ -13,7 +13,7 @@ A brief description of your project.
 ```
 ├── captions_extracted/              # Output file for extracted captions from posts
 ├── downloaded_images/               # Output file for downloaded posts
-├── impfiles/                        # Folder containing raw data (JSON file from Apify Instagram Scrapper  API)
+├── impfiles/                        # Folder containing raw data (JSON file from Apify Instagram Scrapper API)
 ├── src/                             # Source code directory
 │   ├── A_Main.py                    # Main script to run the project
 │   ├── B_GoogleVisionExtraction.py  # Google Vision API OCR script
@@ -25,5 +25,6 @@ A brief description of your project.
 │   └── postcollections.py           # Post collection handling
 ├── texts_extracted/                 # Output file for OCR extracted text from posts
 ├── LICENSE                          # Project license file
+├── Overview.png                     # Project Overview
 ├── all_events.txt                   # Output file for D_FinalProcessing.py
 └── response.txt                     # Output file for C_GoogleAIAPI.py
