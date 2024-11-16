@@ -1,7 +1,9 @@
-# Find My Dinner (HackedBeta 2024 - Honourable Mention)
+# Find My Dinner
 
-## Overview
+## Overview (HackedBeta 2024 - Honourable Mention)
 A brief description of your project.
+
+![Project Overwiew](Overview.png)
 
 ## Technologies Used
 
